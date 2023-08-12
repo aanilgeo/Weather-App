@@ -7,7 +7,8 @@ The Weather App is a simple web application that allows users to get weather inf
 
 ## Demo
 
-You can try out the live demo of the Weather App [here](andrewanil.github.io/Weather-App/)
+You can try out the live demo of the Weather App [here](https://andrewanil.github.io/Weather-App/).
+
 
 ## Features
 
@@ -21,6 +22,7 @@ You can try out the live demo of the Weather App [here](andrewanil.github.io/Wea
 2. Click the "Get Weather" button.
 3. The app will fetch weather data for the specified city and display it on the screen.
 
-## License
-This project is licensed under the MIT License.
 
+## License
+
+This project is open source and available under the [MIT License](LICENSE). You're welcome to use, modify, and distribute the code according to the terms of the license. Feel free to contribute to the project by submitting pull requests or suggesting improvements. Let's learn and collaborate together!
