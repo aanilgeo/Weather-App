@@ -7,7 +7,7 @@ The Weather App is a simple web application that allows users to get weather inf
 
 ## Demo
 
-You can try out the live demo of the Weather App [here](https://andrewanil.github.io/Weather-App/).
+You can try out the live demo of the Weather App [here](https://aanilgeo.github.io/Weather-App/).
 
 
 ## Features
